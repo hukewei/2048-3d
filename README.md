@@ -1,4 +1,6 @@
 # 3D 2048
-Based on [Gabriele Cirulli's 2048](http://gabrielecirulli.github.io/2048/).
+Leap Motion supported.
 
-Made just for fun. [Play it here!](http://baiqiang.github.io/2048-3d/)
+Based on [Baiqiang's 2048](http://baiqiang.github.io/2048-3d/).
+
+Made just for fun. [Play it here!](http://hukewei.github.io/2048-3d/)
